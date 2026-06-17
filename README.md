@@ -50,24 +50,6 @@ All data remains available after refreshing the page.
 
 ---
 
-## Screenshots
-
-Add screenshots here.
-
-### Home Page
-
-![Home](screenshots/home.png)
-
-### Products Table
-
-![Products](screenshots/products.png)
-
-### Search Feature
-
-![Search](screenshots/search.png)
-
----
-
 ## Learning Objectives
 
 This project was created to practice:
