@@ -2,6 +2,12 @@
 
 A simple CRUD (Create, Read, Update, Delete) application built using HTML, CSS, and JavaScript.
 
+## Live Demo
+
+🚀 Live Website:
+
+https://marzokajaj.github.io/crud-products-app/
+
 ## Overview
 
 This project was developed as a frontend practice project to improve JavaScript fundamentals and DOM manipulation skills.
